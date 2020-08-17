@@ -1,1 +1,0 @@
-console.log('Testando o git/githuhb, nno vs code')
